@@ -54,9 +54,9 @@ var questions = [
   {
     question: "What does AJAX stand for?",
     choices: [
-      "A. Asynchronous JavaScript and XML",
-      "B. Aladdin Jafar and Xanax",
-      "C. After Joy Arrives a Xenophobe",
+      "1. Asynchronous JavaScript and XML",
+      "2. Aladdin Jafar and Xanax",
+      "3. After Joy Arrives a Xenophobe",
     ],
     answer: 0,
   },
